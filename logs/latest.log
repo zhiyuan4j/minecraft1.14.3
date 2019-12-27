@@ -1,0 +1,217 @@
+[15:45:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:45:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:45:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:45:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:45:24] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[15:45:24] [Server thread/INFO]: Loading properties
+[15:45:24] [Server thread/INFO]: Default game type: SURVIVAL
+[15:45:24] [Server thread/INFO]: Generating keypair
+[15:45:24] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: ¾ä±úÎÞÐ§¡£
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_211]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at ui$2.run(SourceFile:109) [server.jar:?]
+[15:45:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:45:25] [Server thread/INFO]: Using default channel type
+[15:45:25] [Server thread/INFO]: Preparing level "world"
+[15:45:26] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:45:26] [Server thread/INFO]: Loaded 6 recipes
+[15:45:27] [Server thread/INFO]: Loaded 811 advancements
+[15:45:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:45:41] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[15:45:41] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[15:45:41] [Server-Worker-8/INFO]: Preparing spawn area: 83%
+[15:45:41] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[15:45:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[15:45:44] [Server thread/INFO]: Preparing spawn area: 83%
+[15:45:44] [Server thread/INFO]: Preparing spawn area: 83%
+[15:45:44] [Server thread/INFO]: Preparing spawn area: 83%
+[15:45:44] [Server thread/INFO]: Preparing spawn area: 83%
+[15:45:44] [Server-Worker-4/INFO]: Preparing spawn area: 89%
+[15:45:44] [Server-Worker-8/INFO]: Preparing spawn area: 89%
+[15:45:45] [Server-Worker-9/INFO]: Preparing spawn area: 89%
+[15:45:45] [Server-Worker-5/INFO]: Preparing spawn area: 90%
+[15:45:46] [Server-Worker-7/INFO]: Preparing spawn area: 95%
+[15:45:46] [Server thread/INFO]: Time elapsed: 19480 ms
+[15:45:46] [Server thread/INFO]: Done (20.978s)! For help, type "help"
+[15:50:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[15:55:25] [User Authenticator #1/INFO]: UUID of player whale52Hz is d0e80917-c047-4911-8387-7cfdc9144211
+[15:55:25] [Server thread/INFO]: whale52Hz[/127.0.0.1:56777] logged in with entity id 40 at (-408.5713493943727, 67.0, -1144.5457032439479)
+[15:55:25] [Server thread/INFO]: whale52Hz joined the game
+[16:00:33] [Server thread/INFO]: whale52Hz has made the advancement [Isn't It Iron Pick]
+[16:00:51] [Server thread/WARN]: whale52Hz moved too quickly! -8.428720425081224,-0.757002463247801,5.561977621508731
+[16:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[16:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[16:07:23] [Server thread/INFO]: [whale52Hz: Teleported whale52Hz to -405.5, 67.0, -1142.5]
+[16:07:23] [Server thread/WARN]: whale52Hz moved too quickly! 167.59454358269022,-1.0,-605.4863899124563
+[16:07:23] [Server thread/WARN]: whale52Hz moved too quickly! 167.59454358269022,-1.0,-605.4863899124563
+[16:07:36] [Server thread/INFO]: [whale52Hz: Teleported whale52Hz to -405.5, 67.0, -1142.5]
+[16:13:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:33] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:13:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 9.418255387033696,-1.5510576895623984,3.446199416287641
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 9.854527859688915,-1.5510576895623984,3.5920536391290625
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 10.298514487248553,-1.5510576895623984,3.7355802967365435
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 10.746628805293994,-1.5510576895623984,3.8778615205939104
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 11.197120614081996,-1.5510576895623984,4.01893108791171
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 11.64905820061324,-1.5510576895623984,4.158786411682286
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 12.10176939398923,-1.5510576895623984,4.29799201794026
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 12.554894528963814,-1.5510576895623984,4.436849973311155
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 13.00824115583464,-1.5510576895623984,4.575521907623738
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 13.461706298603076,-0.5510576895623984,4.714094305776939
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 13.915234856865368,-0.5510576895623984,4.852613444115718
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 14.368797347494024,-0.5510576895623984,4.991104084189715
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 14.82203551894554,-0.5510576895623984,5.13069063547232
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 15.266180289824774,-0.5510576895623984,5.294620352086895
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 15.694731980060851,-0.5510576895623984,5.49267130262308
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 16.09784581759709,-0.5510576895623984,5.734319643667277
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 16.474199352978985,-0.5510576895623984,6.014635594831589
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 16.83344155467421,-0.5510576895623984,6.318558495027787
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 17.18191045380263,0.4489423104376016,6.636754436564274
+[16:15:55] [Server thread/WARN]: Skeleton Horse (vehicle of whale52Hz) moved too quickly! 9.337136349237312,-1.5510576895623984,3.624485863847781
+[16:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[16:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[16:23:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[16:25:14] [Server thread/INFO]: whale52Hz lost connection: Disconnected
+[16:25:14] [Server thread/INFO]: whale52Hz left the game
+[17:07:14] [User Authenticator #2/INFO]: UUID of player whale52Hz is d0e80917-c047-4911-8387-7cfdc9144211
+[17:07:14] [Server thread/INFO]: whale52Hz[/127.0.0.1:60139] logged in with entity id 8621 at (-1420.744458879235, 92.6625000178814, -903.4446393071629)
+[17:07:14] [Server thread/INFO]: whale52Hz joined the game
+[17:07:18] [Server thread/INFO]: whale52Hz lost connection: Disconnected
+[17:07:18] [Server thread/INFO]: whale52Hz left the game
