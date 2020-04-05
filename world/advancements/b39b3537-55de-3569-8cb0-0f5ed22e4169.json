@@ -194,6 +194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-06 00:41:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "enchanted_golden_apple": "2020-04-04 23:43:14 +0800"
@@ -361,6 +367,7 @@
       "minecraft:mountains": "2020-04-05 01:27:51 +0800",
       "minecraft:dark_forest": "2020-04-05 00:46:00 +0800",
       "minecraft:river": "2020-04-04 23:59:13 +0800",
+      "minecraft:wooded_mountains": "2020-04-06 00:33:41 +0800",
       "minecraft:wooded_hills": "2020-04-04 23:37:03 +0800",
       "minecraft:plains": "2019-04-19 13:08:14 +0800"
     },
