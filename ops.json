@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "740da44c-2cd2-3b43-8704-cb62e8a015e5",
+    "name": "kangkang",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "d0e80917-c047-4911-8387-7cfdc9144211",
     "name": "whale52Hz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a4841690-b680-3c5d-bd18-7a84c4fa4cb4",
+    "name": "没有苹果了",
     "level": 4,
     "bypassesPlayerLimit": false
   },

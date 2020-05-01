@@ -1,57 +1,74 @@
-[00:03:55] [Server thread/WARN]: Blink moved too quickly! 0.0,-11.842011517166327,2.0670376670750557E-4
-[00:07:37] [Server thread/INFO]: [whale52Hz: Set the time to 100]
-[00:14:35] [Server thread/INFO]: [whale52Hz: Set the time to 100]
-[00:14:43] [Server thread/INFO]: [whale52Hz: Set the weather to clear]
-[00:24:41] [Server thread/INFO]: [whale52Hz: Set the weather to clear]
-[00:25:30] [Server thread/INFO]: [whale52Hz: Set the time to 100]
-[00:29:50] [Server thread/INFO]: [whale52Hz: Set the weather to clear]
-[00:31:26] [Server thread/WARN]: Blink moved too quickly! 0.031635078071644784,-5.999987902364467,-8.645617979341523
-[00:34:54] [Server thread/INFO]: [whale52Hz: Set the weather to clear]
-[00:34:57] [Server thread/INFO]: [whale52Hz: Set the time to 100]
-[00:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[00:43:22] [Server thread/INFO]: [whale52Hz: Set the weather to clear]
-[00:45:15] [Server thread/INFO]: [whale52Hz: Set the time to 100]
-[00:48:30] [Server thread/INFO]: [whale52Hz: Set the weather to clear]
-[00:53:41] [Server thread/INFO]: [whale52Hz: Set the weather to clear]
-[00:56:01] [Server thread/INFO]: [whale52Hz: Set the time to 100]
-[00:59:17] [Server thread/INFO]: [whale52Hz: Set the weather to clear]
-[00:59:25] [Server thread/WARN]: whale52Hz moved too quickly! -6.708532432051356,0.0,-8.137269064392058
-[01:00:18] [Server thread/INFO]: whale52Hz lost connection: Disconnected
-[01:00:18] [Server thread/INFO]: whale52Hz left the game
-[01:00:26] [Server thread/INFO]: Blink lost connection: Disconnected
-[01:00:26] [Server thread/INFO]: Blink left the game
-[01:00:28] [Server thread/INFO]: Stopping server
-[01:00:28] [Server thread/INFO]: Saving players
-[01:00:28] [Server thread/INFO]: Saving worlds
-[01:00:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:00:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:00:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:00:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:00:28] [Server-Worker-1152/ERROR]: Cound not schedule mailbox
-java.util.concurrent.RejectedExecutionException: null
-	at java.util.concurrent.ForkJoinPool.externalSubmit(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.externalPush(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.execute(Unknown Source) ~[?:1.8.0_211]
-	at agq.f(SourceFile:112) ~[server.jar:?]
-	at agq.a(SourceFile:101) ~[server.jar:?]
-	at uw.a(SourceFile:141) ~[server.jar:?]
-	at uw.a(SourceFile:149) ~[server.jar:?]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) ~[?:1.8.0_211]
-	at java.util.concurrent.CompletableFuture.complete(Unknown Source) ~[?:1.8.0_211]
-	at agp$1.a(SourceFile:32) ~[server.jar:?]
-	at uw.b(SourceFile:58) ~[server.jar:?]
-	at agq.e(SourceFile:83) [server.jar:?]
-	at agq.a(SourceFile:123) [server.jar:?]
-	at agq.run(SourceFile:91) [server.jar:?]
-	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_211]
-	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_211]
+[17:57:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:57:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:57:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:57:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:57:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:57:52] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[17:57:52] [Server thread/INFO]: Loading properties
+[17:57:52] [Server thread/INFO]: Default game type: SURVIVAL
+[17:57:52] [Server thread/INFO]: Generating keypair
+[17:57:52] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: ¾ä±úÎÞÐ§¡£
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_211]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at ui$2.run(SourceFile:109) [server.jar:?]
+[17:57:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:57:53] [Server thread/INFO]: Using default channel type
+[17:57:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:57:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:57:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:57:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:57:53] [Server thread/INFO]: Preparing level "world"
+[17:57:53] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:57:54] [Server thread/INFO]: Loaded 6 recipes
+[17:57:54] [Server thread/INFO]: Loaded 811 advancements
+[17:57:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:57:56] [Server thread/INFO]: Preparing spawn area: 0%
+[17:57:56] [Server thread/INFO]: Preparing spawn area: 0%
+[17:57:56] [Server thread/INFO]: Preparing spawn area: 0%
+[17:57:56] [Server thread/INFO]: Preparing spawn area: 0%
+[17:57:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:57:59] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:57:59] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:57:59] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:57:59] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:58:05] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[17:58:05] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[17:58:05] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[17:58:05] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:58:05] [Server-Worker-8/INFO]: Preparing spawn area: 99%
+[17:58:05] [Server thread/INFO]: Time elapsed: 10937 ms
+[17:58:06] [Server thread/INFO]: Done (12.227s)! For help, type "help"
+[18:00:40] [Server thread/INFO]: wang[/192.168.0.101:53822] logged in with entity id 78 at (-406.81727651331397, 67.0, -1143.300000011921)
+[18:00:40] [Server thread/INFO]: wang joined the game
+[18:00:44] [Server thread/INFO]: wang lost connection: Disconnected
+[18:00:44] [Server thread/INFO]: wang left the game
+[19:55:54] [Server thread/INFO]: Stopping server
+[19:55:54] [Server thread/INFO]: Saving players
+[19:55:54] [Server thread/INFO]: Saving worlds
+[19:55:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:55:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:55:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
