@@ -4,5 +4,23 @@
     "name": "whale52Hz",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8f2fbcd4-7323-3565-85fc-cb04c0726f39",
+    "name": "jenny",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b39b3537-55de-3569-8cb0-0f5ed22e4169",
+    "name": "Blink",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "39198a6f-20d6-3eac-a71e-c1e969dd4ae4",
+    "name": "zhiyuan4j",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

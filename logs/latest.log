@@ -1,85 +1,130 @@
-[14:44:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:44:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:44:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:44:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:44:16] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[14:44:16] [Server thread/INFO]: Loading properties
-[14:44:16] [Server thread/INFO]: Default game type: SURVIVAL
-[14:44:16] [Server thread/INFO]: Generating keypair
-[14:44:16] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: ¾ä±úÎÞÐ§¡£
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_211]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_211]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_211]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_211]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_211]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_211]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_211]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_211]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_211]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
-	at ui$2.run(SourceFile:109) [server.jar:?]
-[14:44:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:44:16] [Server thread/INFO]: Using default channel type
-[14:44:16] [Server thread/INFO]: Preparing level "world"
-[14:44:16] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:44:17] [Server thread/INFO]: Loaded 6 recipes
-[14:44:17] [Server thread/INFO]: Loaded 811 advancements
-[14:44:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:44:19] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:19] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:19] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:19] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:19] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[14:44:22] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[14:44:22] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[14:44:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[14:44:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:28] [Server thread/INFO]: Preparing spawn area: 0%
-[14:44:30] [Server-Worker-6/INFO]: Preparing spawn area: 83%
-[14:44:30] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[14:44:30] [Server-Worker-6/INFO]: Preparing spawn area: 83%
-[14:44:32] [Server thread/INFO]: Preparing spawn area: 83%
-[14:44:32] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[14:44:32] [Server thread/INFO]: Preparing spawn area: 83%
-[14:44:32] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[14:44:32] [Server-Worker-8/INFO]: Preparing spawn area: 89%
-[14:44:32] [Server-Worker-8/INFO]: Preparing spawn area: 89%
-[14:44:33] [Server-Worker-1/INFO]: Preparing spawn area: 89%
-[14:44:33] [Server-Worker-1/INFO]: Preparing spawn area: 92%
-[14:44:34] [Server thread/INFO]: Time elapsed: 16454 ms
-[14:44:34] [Server thread/INFO]: Done (17.509s)! For help, type "help"
-[14:48:09] [User Authenticator #1/INFO]: UUID of player whale52Hz is d0e80917-c047-4911-8387-7cfdc9144211
-[14:48:09] [Server thread/INFO]: whale52Hz[/127.0.0.1:55090] logged in with entity id 41 at (1098.6105089129826, 111.60802411468639, -1455.1797506540659)
-[14:48:09] [Server thread/INFO]: whale52Hz joined the game
-[14:49:37] [Server thread/WARN]: whale52Hz moved too quickly! 4.816332258938928,1.713744068098066,9.111331522743967
-[14:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
-[14:52:16] [Server thread/INFO]: [whale52Hz: Teleported whale52Hz to -406.817, 67.0, -1142.5]
-[14:52:37] [Server thread/INFO]: [whale52Hz: Set own game mode to Survival Mode]
-[14:53:25] [Server thread/INFO]: whale52Hz lost connection: Disconnected
-[14:53:25] [Server thread/INFO]: whale52Hz left the game
-[14:53:30] [Server thread/INFO]: Stopping server
-[14:53:30] [Server thread/INFO]: Saving players
-[14:53:30] [Server thread/INFO]: Saving worlds
-[14:53:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:53:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:53:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:53:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:02:55] [Server thread/WARN]: zhiyuan4j moved too quickly! -10.08577372394484,-1.4783238170658137,0.20047488132354374
+[00:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[00:05:49] [Server thread/INFO]: jenny has made the advancement [Diamonds!]
+[00:07:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[00:12:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[00:21:24] [Server thread/INFO]: zhiyuan4j has made the advancement [Diamonds!]
+[00:23:03] [Server thread/WARN]: zhiyuan4j moved too quickly! -9.86499906721565,-0.5358406250445569,-1.7151152099388582
+[00:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[00:24:20] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to jenny]
+[00:24:48] [Server thread/INFO]: zhiyuan4j has made the advancement [Sweet Dreams]
+[00:25:15] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to -3778.5, 66.0, -1175.5]
+[00:25:15] [Server thread/WARN]: zhiyuan4j moved too quickly! -3439.199999988079,59.0,-288.57797756370576
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -10.354589902020962,0.0,0.40278198204146065
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -10.754185044812402,0.0,0.41328474902047674
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -11.153810511486881,0.0,0.42363837647144464
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -11.553463355337954,0.0,0.4338539444452181
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -11.953140838646505,0.0,0.44394525889265424
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -12.352840583148463,0.0,0.45392091114717914
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -12.75256036272367,0.0,0.4637924674309488
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -13.152298259547024,0.0,0.4735665033792884
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -13.552052461892345,0.0,0.4832527710282193
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -13.951821424888294,0.0,0.49285621312947114
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -14.351603672470446,0.0,0.5023851122396081
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -14.751397876178999,0.0,0.5118469226595153
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -15.151202922357697,0.0,0.5212445192375981
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -15.55101772675971,0.0,0.5305843233597898
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -15.950841313561796,0.0,0.5398721142728391
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -16.350672804524038,0.0,0.5491130932989563
+[00:33:05] [Server thread/WARN]: Boat (vehicle of zhiyuan4j) moved too quickly! -16.750511409230967,0.0,0.558311941627835
+[00:33:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[00:33:59] [Server thread/INFO]: jenny burned to death
+[00:35:48] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to -407.5, 67.0, -1143.5]
+[00:35:48] [Server thread/WARN]: zhiyuan4j moved too quickly! 5301.331983192279,4.0,697.3256233370935
+[00:35:52] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to jenny]
+[00:35:52] [Server thread/WARN]: zhiyuan4j moved too quickly! 358.6151848805555,-2.0,1366.4256192494345
+[00:36:16] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to -407.5, 67.0, -1143.5]
+[00:36:16] [Server thread/WARN]: zhiyuan4j moved too quickly! -359.53014432236955,2.0,-1360.1698562128765
+[00:37:11] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to jenny]
+[00:37:11] [Server thread/WARN]: zhiyuan4j moved too quickly! 360.1860923531886,-6.210298302454724,1365.7699135964226
+[00:45:41] [Server thread/INFO]: Blink[/192.168.0.107:5812] logged in with entity id 29898 at (-496.5, 72.0, -1109.5)
+[00:45:41] [Server thread/INFO]: Blink joined the game
+[00:45:56] [Server thread/INFO]: Blink lost connection: Timed out
+[00:45:56] [Server thread/INFO]: Blink left the game
+[00:46:01] [Server thread/INFO]: Blink[/192.168.0.107:5831] logged in with entity id 30304 at (-496.5, 72.0, -1109.5)
+[00:46:01] [Server thread/INFO]: Blink joined the game
+[00:46:38] [Server thread/INFO]: [Blink: Teleported Blink to zhiyuan4j]
+[00:46:38] [Server thread/WARN]: Blink moved too quickly! 145.59933841808925,3.0,1302.1790751743615
+[00:46:38] [Server thread/WARN]: Blink moved too quickly! 145.59933841808925,3.0,1302.1790751743615
+[00:48:08] [Server thread/INFO]: [Blink: Teleported Blink to zhiyuan4j]
+[00:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
+[00:48:16] [Server thread/INFO]: [jenny: Teleported jenny to zhiyuan4j]
+[00:49:50] [Server thread/INFO]: [zhiyuan4j: Set the time to 100]
+[00:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[00:54:32] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to Blink]
+[00:57:08] [Server thread/INFO]: [jenny: Teleported jenny to zhiyuan4j]
+[00:57:49] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to -407.5, 67.0, -1143.5]
+[00:57:49] [Server thread/WARN]: zhiyuan4j moved too quickly! 2.5634004103176267,-3.0,-1554.9703053473295
+[00:58:14] [Server thread/WARN]: jenny moved too quickly! -7.419937147922326,-6.464159374955443,-2.026475664637587
+[00:58:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3265ms or 65 ticks behind
+[00:58:22] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to Blink]
+[01:00:00] [Server thread/INFO]: [jenny: Teleported jenny to Blink]
+[01:00:25] [Server thread/INFO]: [zhiyuan4j: Set the time to 100]
+[01:02:31] [Server thread/INFO]: jenny lost connection: Disconnected
+[01:02:31] [Server thread/INFO]: jenny left the game
+[01:02:35] [Server thread/INFO]: jenny[/127.0.0.1:56026] logged in with entity id 36080 at (-510.6163987479613, 73.0, 154.12609927697332)
+[01:02:35] [Server thread/INFO]: jenny joined the game
+[01:02:50] [Server thread/INFO]: jenny lost connection: Timed out
+[01:02:50] [Server thread/INFO]: jenny left the game
+[01:03:02] [Server thread/INFO]: jenny[/127.0.0.1:56032] logged in with entity id 36157 at (-510.6163987479613, 73.0, 154.12609927697332)
+[01:03:02] [Server thread/INFO]: jenny joined the game
+[01:03:18] [Server thread/INFO]: jenny lost connection: Timed out
+[01:03:18] [Server thread/INFO]: jenny left the game
+[01:03:24] [Server thread/INFO]: jenny[/127.0.0.1:56044] logged in with entity id 36211 at (-510.6163987479613, 73.0, 154.12609927697332)
+[01:03:24] [Server thread/INFO]: jenny joined the game
+[01:03:40] [Server thread/INFO]: jenny lost connection: Timed out
+[01:03:40] [Server thread/INFO]: jenny left the game
+[01:03:47] [Server thread/INFO]: jenny[/127.0.0.1:56050] logged in with entity id 36255 at (-510.6163987479613, 73.0, 154.12609927697332)
+[01:03:47] [Server thread/INFO]: jenny joined the game
+[01:03:55] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to -407.5, 67.0, -1143.5]
+[01:03:55] [Server thread/WARN]: zhiyuan4j moved too quickly! 128.30122737364502,-6.0,-1298.8799947906275
+[01:03:55] [Server thread/WARN]: zhiyuan4j moved too quickly! 128.30122737364502,-6.0,-1298.8799947906275
+[01:04:02] [Server thread/INFO]: jenny lost connection: Timed out
+[01:04:02] [Server thread/INFO]: jenny left the game
+[01:05:01] [Server thread/INFO]: jenny[/127.0.0.1:56080] logged in with entity id 36773 at (-510.6163987479613, 73.0, 154.12609927697332)
+[01:05:01] [Server thread/INFO]: jenny joined the game
+[01:05:09] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to Blink]
+[01:05:09] [Server thread/WARN]: zhiyuan4j moved too quickly! -102.80671490653401,8.0,1288.384069166406
+[01:05:09] [Server thread/WARN]: zhiyuan4j moved too quickly! -102.80671490653401,8.0,1288.384069166406
+[01:05:16] [Server thread/INFO]: jenny lost connection: Timed out
+[01:05:16] [Server thread/INFO]: jenny left the game
+[01:05:23] [Server thread/INFO]: jenny[/127.0.0.1:56091] logged in with entity id 36836 at (-510.5359105061968, 73.0, 154.11041668057442)
+[01:05:23] [Server thread/INFO]: jenny joined the game
+[01:05:38] [Server thread/INFO]: jenny lost connection: Timed out
+[01:05:38] [Server thread/INFO]: jenny left the game
+[01:05:41] [Server thread/INFO]: jenny[/127.0.0.1:56100] logged in with entity id 36896 at (-510.5359105061968, 73.0, 154.11041668057442)
+[01:05:41] [Server thread/INFO]: jenny joined the game
+[01:05:56] [Server thread/INFO]: jenny lost connection: Timed out
+[01:05:56] [Server thread/INFO]: jenny left the game
+[01:07:41] [Server thread/INFO]: [Blink: Teleported Blink to zhiyuan4j]
+[01:09:53] [Server thread/INFO]: [Blink: Teleported Blink to zhiyuan4j]
+[01:10:46] [Server thread/INFO]: [zhiyuan4j: Set the time to 100]
+[01:17:26] [Server thread/INFO]: zhiyuan4j has made the advancement [Best Friends Forever]
+[01:18:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[01:19:44] [Server thread/INFO]: Blink lost connection: Disconnected
+[01:19:44] [Server thread/INFO]: Blink left the game
+[01:19:54] [Server thread/INFO]: [zhiyuan4j: Teleported zhiyuan4j to -407.5, 67.0, -1143.5]
+[01:19:54] [Server thread/WARN]: zhiyuan4j moved too quickly! 207.56012631302633,1.0,-1297.9509904307351
+[01:20:01] [Server thread/INFO]: Blink[/192.168.0.107:7402] logged in with entity id 39809 at (-450.4674555745084, 62.321583794223244, 175.47508209939969)
+[01:20:01] [Server thread/INFO]: Blink joined the game
+[01:20:16] [Server thread/INFO]: [Blink: Teleported Blink to zhiyuan4j]
+[01:20:16] [Server thread/WARN]: Blink moved too quickly! 41.17325510643411,5.0,-1319.7191114264717
+[01:20:16] [Server thread/WARN]: Blink moved too quickly! 41.17325510643411,5.0,-1319.7191114264717
+[01:20:16] [Server thread/WARN]: Blink moved too quickly! 41.17325510643411,5.0,-1319.7191114264717
+[01:20:35] [Server thread/INFO]: zhiyuan4j lost connection: Disconnected
+[01:20:35] [Server thread/INFO]: zhiyuan4j left the game
+[01:23:21] [Server thread/INFO]: Blink lost connection: Disconnected
+[01:23:21] [Server thread/INFO]: Blink left the game
+[01:23:28] [Server thread/INFO]: Stopping server
+[01:23:28] [Server thread/INFO]: Saving players
+[01:23:28] [Server thread/INFO]: Saving worlds
+[01:23:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:23:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:23:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
